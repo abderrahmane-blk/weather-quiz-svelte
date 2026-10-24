@@ -1,0 +1,43 @@
+{
+  "homeTitle": "Thunderstorm Safety Quiz",
+  "homeIntro": "Three quick questions to test what you know about staying safe in a storm.",
+  "questions": [
+    {
+      "question": "A thunderstorm is starting. Where is the safest place to be?",
+      "options": [
+        "In an open field",
+        "Under a tall, lone tree",
+        "Inside a sturdy building with walls and a roof",
+        "Standing in shallow water"
+      ],
+      "correctOption": 3,
+      "explanation": "A sturdy building gives real protection. Open fields, lone trees and water make you the easiest path for lightning. (Demo only, not official safety advice.)",
+      "sourceLabel": "NOAA National Weather Service: Lightning safety",
+      "sourceUrl": "https://www.weather.gov/safety/lightning"
+    },
+    {
+      "question": "After you hear the last thunder, how long should you wait before going back outside?",
+      "options": [
+        "30 minutes",
+        "5 minutes",
+        "1 minute"
+      ],
+      "correctOption": 1,
+      "explanation": "Lightning can still strike after the rain stops. A common rule is to wait 30 minutes after the last thunder. (Demo only, not official safety advice.)",
+      "sourceLabel": "Ready.gov: Thunderstorms and lightning",
+      "sourceUrl": "https://www.ready.gov/thunderstorms-lightning"
+    },
+    {
+      "question": "You can hear thunder. How close is the lightning?",
+      "options": [
+        "Too far away to matter",
+        "Close enough to strike you",
+        "Only dangerous if you can also see it"
+      ],
+      "correctOption": 2,
+      "explanation": "If you can hear thunder, you are within striking distance. Move indoors right away. (Demo only, not official safety advice.)",
+      "sourceLabel": "NOAA National Weather Service: Thunderstorm safety",
+      "sourceUrl": "https://www.weather.gov/safety/thunderstorm"
+    }
+  ]
+}
